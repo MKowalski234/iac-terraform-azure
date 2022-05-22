@@ -15,7 +15,7 @@ variable "linux_function_app"{
   type = string
   default = "test"
 }
-variable "function_app"{
+variable "app_function"{
   type = string
   default = "test"
 }
